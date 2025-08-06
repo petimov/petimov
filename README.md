@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="instagram logo"  />
   </a>
   <a href="https://www.chess.com/member/asimov1940" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge](https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpo5MdrQ.png" height="24" alt="chess.com logo"  />
+    <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpo5MdrQ.png" height="24" alt="chess.com logo"  />
   </a>
 </div>
 
