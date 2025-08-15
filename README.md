@@ -32,9 +32,6 @@
   <a href="https://www.instagram.com/petrmovsesjan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="instagram logo"  />
   </a>
-  <a href="https://www.chess.com/member/asimov1940" target="_blank">
-    <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpNgJfyb.png" height="24" alt="chess.com logo"  />
-  </a>
 </div>
 
 ###
